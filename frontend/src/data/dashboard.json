@@ -1,0 +1,2803 @@
+{
+  "total_products": 241,
+  "total_reviews": 12052,
+  "total_analyses": 12058,
+  "sentiment_distribution": {
+    "positive": 6648,
+    "negative": 2460,
+    "neutral": 1,
+    "mixed": 2949
+  },
+  "most_frequent_aspects": [
+    {
+      "aspect_name": "Display",
+      "total_mentions": 4026,
+      "positive_count": 2774,
+      "negative_count": 1173,
+      "neutral_count": 56,
+      "mixed_count": 23,
+      "net_sentiment_score": 0.4
+    },
+    {
+      "aspect_name": "Performance",
+      "total_mentions": 3200,
+      "positive_count": 2495,
+      "negative_count": 396,
+      "neutral_count": 0,
+      "mixed_count": 309,
+      "net_sentiment_score": 0.66
+    },
+    {
+      "aspect_name": "Battery",
+      "total_mentions": 2011,
+      "positive_count": 868,
+      "negative_count": 360,
+      "neutral_count": 0,
+      "mixed_count": 783,
+      "net_sentiment_score": 0.25
+    },
+    {
+      "aspect_name": "Connectivity",
+      "total_mentions": 1807,
+      "positive_count": 598,
+      "negative_count": 1176,
+      "neutral_count": 19,
+      "mixed_count": 14,
+      "net_sentiment_score": -0.32
+    },
+    {
+      "aspect_name": "Design",
+      "total_mentions": 1626,
+      "positive_count": 1623,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "mixed_count": 1,
+      "net_sentiment_score": 1.0
+    },
+    {
+      "aspect_name": "Software and user interface",
+      "total_mentions": 1618,
+      "positive_count": 1614,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "net_sentiment_score": 1.0
+    },
+    {
+      "aspect_name": "Durability",
+      "total_mentions": 1583,
+      "positive_count": 1565,
+      "negative_count": 6,
+      "neutral_count": 10,
+      "mixed_count": 2,
+      "net_sentiment_score": 0.98
+    },
+    {
+      "aspect_name": "Audio and speakers",
+      "total_mentions": 1320,
+      "positive_count": 923,
+      "negative_count": 296,
+      "neutral_count": 88,
+      "mixed_count": 13,
+      "net_sentiment_score": 0.47
+    },
+    {
+      "aspect_name": "Camera",
+      "total_mentions": 1290,
+      "positive_count": 974,
+      "negative_count": 307,
+      "neutral_count": 0,
+      "mixed_count": 9,
+      "net_sentiment_score": 0.52
+    },
+    {
+      "aspect_name": "Build quality",
+      "total_mentions": 1064,
+      "positive_count": 770,
+      "negative_count": 291,
+      "neutral_count": 0,
+      "mixed_count": 3,
+      "net_sentiment_score": 0.45
+    },
+    {
+      "aspect_name": "Charging",
+      "total_mentions": 1036,
+      "positive_count": 1032,
+      "negative_count": 4,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "net_sentiment_score": 0.99
+    },
+    {
+      "aspect_name": "Price",
+      "total_mentions": 751,
+      "positive_count": 395,
+      "negative_count": 356,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "net_sentiment_score": 0.05
+    }
+  ],
+  "top_positive_aspects": [
+    {
+      "aspect_name": "Display",
+      "total_mentions": 4026,
+      "positive_count": 2774,
+      "negative_count": 1173,
+      "neutral_count": 56,
+      "mixed_count": 23,
+      "net_sentiment_score": 0.4
+    },
+    {
+      "aspect_name": "Performance",
+      "total_mentions": 3200,
+      "positive_count": 2495,
+      "negative_count": 396,
+      "neutral_count": 0,
+      "mixed_count": 309,
+      "net_sentiment_score": 0.66
+    },
+    {
+      "aspect_name": "Design",
+      "total_mentions": 1626,
+      "positive_count": 1623,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "mixed_count": 1,
+      "net_sentiment_score": 1.0
+    },
+    {
+      "aspect_name": "Software and user interface",
+      "total_mentions": 1618,
+      "positive_count": 1614,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "net_sentiment_score": 1.0
+    },
+    {
+      "aspect_name": "Durability",
+      "total_mentions": 1583,
+      "positive_count": 1565,
+      "negative_count": 6,
+      "neutral_count": 10,
+      "mixed_count": 2,
+      "net_sentiment_score": 0.98
+    },
+    {
+      "aspect_name": "Charging",
+      "total_mentions": 1036,
+      "positive_count": 1032,
+      "negative_count": 4,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "net_sentiment_score": 0.99
+    },
+    {
+      "aspect_name": "Camera",
+      "total_mentions": 1290,
+      "positive_count": 974,
+      "negative_count": 307,
+      "neutral_count": 0,
+      "mixed_count": 9,
+      "net_sentiment_score": 0.52
+    },
+    {
+      "aspect_name": "Audio and speakers",
+      "total_mentions": 1320,
+      "positive_count": 923,
+      "negative_count": 296,
+      "neutral_count": 88,
+      "mixed_count": 13,
+      "net_sentiment_score": 0.47
+    },
+    {
+      "aspect_name": "Battery",
+      "total_mentions": 2011,
+      "positive_count": 868,
+      "negative_count": 360,
+      "neutral_count": 0,
+      "mixed_count": 783,
+      "net_sentiment_score": 0.25
+    },
+    {
+      "aspect_name": "Build quality",
+      "total_mentions": 1064,
+      "positive_count": 770,
+      "negative_count": 291,
+      "neutral_count": 0,
+      "mixed_count": 3,
+      "net_sentiment_score": 0.45
+    },
+    {
+      "aspect_name": "Connectivity",
+      "total_mentions": 1807,
+      "positive_count": 598,
+      "negative_count": 1176,
+      "neutral_count": 19,
+      "mixed_count": 14,
+      "net_sentiment_score": -0.32
+    },
+    {
+      "aspect_name": "Price",
+      "total_mentions": 751,
+      "positive_count": 395,
+      "negative_count": 356,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "net_sentiment_score": 0.05
+    }
+  ],
+  "top_negative_aspects": [
+    {
+      "aspect_name": "Connectivity",
+      "total_mentions": 1807,
+      "positive_count": 598,
+      "negative_count": 1176,
+      "neutral_count": 19,
+      "mixed_count": 14,
+      "net_sentiment_score": -0.32
+    },
+    {
+      "aspect_name": "Display",
+      "total_mentions": 4026,
+      "positive_count": 2774,
+      "negative_count": 1173,
+      "neutral_count": 56,
+      "mixed_count": 23,
+      "net_sentiment_score": 0.4
+    },
+    {
+      "aspect_name": "Performance",
+      "total_mentions": 3200,
+      "positive_count": 2495,
+      "negative_count": 396,
+      "neutral_count": 0,
+      "mixed_count": 309,
+      "net_sentiment_score": 0.66
+    },
+    {
+      "aspect_name": "Battery",
+      "total_mentions": 2011,
+      "positive_count": 868,
+      "negative_count": 360,
+      "neutral_count": 0,
+      "mixed_count": 783,
+      "net_sentiment_score": 0.25
+    },
+    {
+      "aspect_name": "Price",
+      "total_mentions": 751,
+      "positive_count": 395,
+      "negative_count": 356,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "net_sentiment_score": 0.05
+    },
+    {
+      "aspect_name": "Camera",
+      "total_mentions": 1290,
+      "positive_count": 974,
+      "negative_count": 307,
+      "neutral_count": 0,
+      "mixed_count": 9,
+      "net_sentiment_score": 0.52
+    },
+    {
+      "aspect_name": "Audio and speakers",
+      "total_mentions": 1320,
+      "positive_count": 923,
+      "negative_count": 296,
+      "neutral_count": 88,
+      "mixed_count": 13,
+      "net_sentiment_score": 0.47
+    },
+    {
+      "aspect_name": "Build quality",
+      "total_mentions": 1064,
+      "positive_count": 770,
+      "negative_count": 291,
+      "neutral_count": 0,
+      "mixed_count": 3,
+      "net_sentiment_score": 0.45
+    },
+    {
+      "aspect_name": "Durability",
+      "total_mentions": 1583,
+      "positive_count": 1565,
+      "negative_count": 6,
+      "neutral_count": 10,
+      "mixed_count": 2,
+      "net_sentiment_score": 0.98
+    },
+    {
+      "aspect_name": "Charging",
+      "total_mentions": 1036,
+      "positive_count": 1032,
+      "negative_count": 4,
+      "neutral_count": 0,
+      "mixed_count": 0,
+      "net_sentiment_score": 0.99
+    },
+    {
+      "aspect_name": "Software and user interface",
+      "total_mentions": 1618,
+      "positive_count": 1614,
+      "negative_count": 3,
+      "neutral_count": 1,
+      "mixed_count": 0,
+      "net_sentiment_score": 1.0
+    },
+    {
+      "aspect_name": "Design",
+      "total_mentions": 1626,
+      "positive_count": 1623,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "mixed_count": 1,
+      "net_sentiment_score": 1.0
+    }
+  ],
+  "product_sentiment_comparison": [
+    {
+      "product_id": "prod_nova_x",
+      "product_name": "Nova X Pro",
+      "total_reviews": 52,
+      "average_rating": 3.77,
+      "positive": 26,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 15
+    },
+    {
+      "product_id": "prod_pixelwave_9",
+      "product_name": "PixelWave 9",
+      "total_reviews": 50,
+      "average_rating": 3.82,
+      "positive": 29,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_galaxysphere_s25",
+      "product_name": "GalaxySphere S25",
+      "total_reviews": 50,
+      "average_rating": 4.02,
+      "positive": 27,
+      "negative": 15,
+      "neutral": 1,
+      "mixed": 7
+    },
+    {
+      "product_id": "prod_ifruit_17",
+      "product_name": "iFruit 17",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 31,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 8
+    },
+    {
+      "product_id": "prod_onemax_ultra",
+      "product_name": "OneMax Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 32,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 7
+    },
+    {
+      "product_id": "prod_apple_iphone_16_pro_max",
+      "product_name": "Apple iPhone 16 Pro Max",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_iphone_16_pro",
+      "product_name": "Apple iPhone 16 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_apple_iphone_16",
+      "product_name": "Apple iPhone 16",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_apple_iphone_16_plus",
+      "product_name": "Apple iPhone 16 Plus",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_apple_iphone_15_pro_max",
+      "product_name": "Apple iPhone 15 Pro Max",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_apple_iphone_15_pro",
+      "product_name": "Apple iPhone 15 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_iphone_15",
+      "product_name": "Apple iPhone 15",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_iphone_14",
+      "product_name": "Apple iPhone 14",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_apple_iphone_13",
+      "product_name": "Apple iPhone 13",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_apple_macbook_pro_16_m3_max",
+      "product_name": "Apple MacBook Pro 16 M3 Max",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_apple_macbook_pro_14_m3_pro",
+      "product_name": "Apple MacBook Pro 14 M3 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_macbook_air_15_m3",
+      "product_name": "Apple MacBook Air 15 M3",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_apple_macbook_air_13_m3",
+      "product_name": "Apple MacBook Air 13 M3",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_apple_macbook_air_13_m2",
+      "product_name": "Apple MacBook Air 13 M2",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_apple_ipad_pro_13_m4",
+      "product_name": "Apple iPad Pro 13 M4",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_apple_ipad_pro_11_m4",
+      "product_name": "Apple iPad Pro 11 M4",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_ipad_air_13_m2",
+      "product_name": "Apple iPad Air 13 M2",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_apple_ipad_air_11_m2",
+      "product_name": "Apple iPad Air 11 M2",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_ipad_10th_gen",
+      "product_name": "Apple iPad 10th Gen",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_apple_ipad_mini_7",
+      "product_name": "Apple iPad Mini 7",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_apple_apple_watch_ultra_2",
+      "product_name": "Apple Apple Watch Ultra 2",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_apple_apple_watch_series_10",
+      "product_name": "Apple Apple Watch Series 10",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_apple_watch_se_2",
+      "product_name": "Apple Apple Watch SE 2",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_airpods_pro_2",
+      "product_name": "Apple AirPods Pro 2",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_airpods_max",
+      "product_name": "Apple AirPods Max",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_apple_airpods_4_with_anc",
+      "product_name": "Apple AirPods 4 with ANC",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_apple_mac_mini_m4",
+      "product_name": "Apple Mac Mini M4",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_apple_mac_studio_m2_ultra",
+      "product_name": "Apple Mac Studio M2 Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_apple_apple_studio_display",
+      "product_name": "Apple Apple Studio Display",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 4,
+      "neutral": 0,
+      "mixed": 18
+    },
+    {
+      "product_id": "prod_apple_apple_tv_4k_128gb",
+      "product_name": "Apple Apple TV 4K 128GB",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 18
+    },
+    {
+      "product_id": "prod_samsung_galaxy_s25_ultra",
+      "product_name": "Samsung Galaxy S25 Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_galaxy_s25plus",
+      "product_name": "Samsung Galaxy S25+",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_galaxy_s25",
+      "product_name": "Samsung Galaxy S25",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_s24_ultra",
+      "product_name": "Samsung Galaxy S24 Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 29,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 8
+    },
+    {
+      "product_id": "prod_samsung_galaxy_s24plus",
+      "product_name": "Samsung Galaxy S24+",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_s24",
+      "product_name": "Samsung Galaxy S24",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_galaxy_s24_fe",
+      "product_name": "Samsung Galaxy S24 FE",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_galaxy_z_fold_6",
+      "product_name": "Samsung Galaxy Z Fold 6",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_galaxy_z_flip_6",
+      "product_name": "Samsung Galaxy Z Flip 6",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_z_fold_5",
+      "product_name": "Samsung Galaxy Z Fold 5",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 29,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_z_flip_5",
+      "product_name": "Samsung Galaxy Z Flip 5",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_a55_5g",
+      "product_name": "Samsung Galaxy A55 5G",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 18
+    },
+    {
+      "product_id": "prod_samsung_galaxy_a35_5g",
+      "product_name": "Samsung Galaxy A35 5G",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 18
+    },
+    {
+      "product_id": "prod_samsung_galaxy_a15_5g",
+      "product_name": "Samsung Galaxy A15 5G",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 26,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 19
+    },
+    {
+      "product_id": "prod_samsung_galaxy_tab_s10_ultra",
+      "product_name": "Samsung Galaxy Tab S10 Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_tab_s10plus",
+      "product_name": "Samsung Galaxy Tab S10+",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_tab_s9_fe",
+      "product_name": "Samsung Galaxy Tab S9 FE",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_watch_ultra",
+      "product_name": "Samsung Galaxy Watch Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_galaxy_watch_7",
+      "product_name": "Samsung Galaxy Watch 7",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_galaxy_ring",
+      "product_name": "Samsung Galaxy Ring",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_samsung_galaxy_buds_3_pro",
+      "product_name": "Samsung Galaxy Buds 3 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_buds_3",
+      "product_name": "Samsung Galaxy Buds 3",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_galaxy_buds_fe",
+      "product_name": "Samsung Galaxy Buds FE",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_galaxy_book_4_pro_360",
+      "product_name": "Samsung Galaxy Book 4 Pro 360",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_galaxy_book_4_ultra",
+      "product_name": "Samsung Galaxy Book 4 Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_samsung_odyssey_oled_g9_49_inch",
+      "product_name": "Samsung Odyssey OLED G9 49-inch",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 29,
+      "negative": 8,
+      "neutral": 0,
+      "mixed": 13
+    },
+    {
+      "product_id": "prod_samsung_odyssey_neo_g8_32_inch",
+      "product_name": "Samsung Odyssey Neo G8 32-inch",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_samsung_neo_qled_65_inch_qn90d_4k_tv",
+      "product_name": "Samsung Neo QLED 65-inch QN90D 4K TV",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_samsung_the_frame_55_inch_qled_4k_tv",
+      "product_name": "Samsung The Frame 55-inch QLED 4K TV",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 23
+    },
+    {
+      "product_id": "prod_samsung_the_freestyle_2nd_gen_projector",
+      "product_name": "Samsung The Freestyle 2nd Gen Projector",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_sony_wh_1000xm5_wireless_headphones",
+      "product_name": "Sony WH-1000XM5 Wireless Headphones",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_sony_wh_1000xm4_wireless_headphones",
+      "product_name": "Sony WH-1000XM4 Wireless Headphones",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_sony_wf_1000xm5_noise_canceling_earbuds",
+      "product_name": "Sony WF-1000XM5 Noise Canceling Earbuds",
+      "total_reviews": 50,
+      "average_rating": 3.98,
+      "positive": 29,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_sony_linkbuds_s",
+      "product_name": "Sony LinkBuds S",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_sony_linkbuds_open",
+      "product_name": "Sony LinkBuds Open",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_sony_playstation_5_pro",
+      "product_name": "Sony PlayStation 5 Pro",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_sony_playstation_5_slim",
+      "product_name": "Sony PlayStation 5 Slim",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_sony_playstation_portal",
+      "product_name": "Sony PlayStation Portal",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_sony_dualsense_edge_wireless_controller",
+      "product_name": "Sony DualSense Edge Wireless Controller",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_sony_xperia_1_vi",
+      "product_name": "Sony Xperia 1 VI",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_sony_xperia_5_v",
+      "product_name": "Sony Xperia 5 V",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_sony_xperia_10_vi",
+      "product_name": "Sony Xperia 10 VI",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_sony_alpha_a7_iv_mirrorless_camera",
+      "product_name": "Sony Alpha A7 IV Mirrorless Camera",
+      "total_reviews": 50,
+      "average_rating": 3.98,
+      "positive": 29,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 20
+    },
+    {
+      "product_id": "prod_sony_alpha_a7r_v_mirrorless_camera",
+      "product_name": "Sony Alpha A7R V Mirrorless Camera",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 21
+    },
+    {
+      "product_id": "prod_sony_alpha_a6700_mirrorless_camera",
+      "product_name": "Sony Alpha A6700 Mirrorless Camera",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 2,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_sony_zv_e10_ii_vlog_camera",
+      "product_name": "Sony ZV-E10 II Vlog Camera",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 27,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_sony_bravia_9_65_inch_mini_led_4k_tv",
+      "product_name": "Sony Bravia 9 65-inch Mini LED 4K TV",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_sony_bravia_theatre_bar_9_soundbar",
+      "product_name": "Sony Bravia Theatre Bar 9 Soundbar",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_sony_srs_xg300_portable_bluetooth_speaker",
+      "product_name": "Sony SRS-XG300 Portable Bluetooth Speaker",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_sony_srs_xb100_compact_bluetooth_speaker",
+      "product_name": "Sony SRS-XB100 Compact Bluetooth Speaker",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_sony_mdr_7506_professional_studio_headphones",
+      "product_name": "Sony MDR-7506 Professional Studio Headphones",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_google_pixel_9_pro_xl",
+      "product_name": "Google Pixel 9 Pro XL",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_google_pixel_9_pro",
+      "product_name": "Google Pixel 9 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_google_pixel_9",
+      "product_name": "Google Pixel 9",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_google_pixel_9_pro_fold",
+      "product_name": "Google Pixel 9 Pro Fold",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_google_pixel_8a",
+      "product_name": "Google Pixel 8a",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 29,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_google_pixel_8_pro",
+      "product_name": "Google Pixel 8 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_google_pixel_8",
+      "product_name": "Google Pixel 8",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_google_pixel_7a",
+      "product_name": "Google Pixel 7a",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_google_pixel_tablet_with_speaker_dock",
+      "product_name": "Google Pixel Tablet with Speaker Dock",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_google_pixel_watch_3_45mm",
+      "product_name": "Google Pixel Watch 3 45mm",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_google_pixel_watch_3_41mm",
+      "product_name": "Google Pixel Watch 3 41mm",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_google_pixel_watch_2",
+      "product_name": "Google Pixel Watch 2",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_google_pixel_buds_pro_2",
+      "product_name": "Google Pixel Buds Pro 2",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_google_pixel_buds_a_series",
+      "product_name": "Google Pixel Buds A-Series",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_google_google_tv_streamer_4k",
+      "product_name": "Google Google TV Streamer 4K",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 29,
+      "negative": 4,
+      "neutral": 0,
+      "mixed": 17
+    },
+    {
+      "product_id": "prod_google_nest_hub_2nd_gen",
+      "product_name": "Google Nest Hub 2nd Gen",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_google_nest_audio_smart_speaker",
+      "product_name": "Google Nest Audio Smart Speaker",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 29,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 20
+    },
+    {
+      "product_id": "prod_google_nest_cam_battery",
+      "product_name": "Google Nest Cam Battery",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 23
+    },
+    {
+      "product_id": "prod_google_nest_doorbell_battery",
+      "product_name": "Google Nest Doorbell Battery",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 23
+    },
+    {
+      "product_id": "prod_google_pixel_stand_2nd_gen",
+      "product_name": "Google Pixel Stand 2nd Gen",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_13",
+      "product_name": "OnePlus OnePlus 13",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_12",
+      "product_name": "OnePlus OnePlus 12",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_12r",
+      "product_name": "OnePlus OnePlus 12R",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_open",
+      "product_name": "OnePlus OnePlus Open",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_11",
+      "product_name": "OnePlus OnePlus 11",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_11r",
+      "product_name": "OnePlus OnePlus 11R",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_nord_4",
+      "product_name": "OnePlus OnePlus Nord 4",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_nord_ce_4",
+      "product_name": "OnePlus OnePlus Nord CE 4",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_nord_ce_4_lite",
+      "product_name": "OnePlus OnePlus Nord CE 4 Lite",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_pad_2",
+      "product_name": "OnePlus OnePlus Pad 2",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_pad_go",
+      "product_name": "OnePlus OnePlus Pad Go",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_watch_2",
+      "product_name": "OnePlus OnePlus Watch 2",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_watch_2r",
+      "product_name": "OnePlus OnePlus Watch 2R",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_buds_pro_3",
+      "product_name": "OnePlus OnePlus Buds Pro 3",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_buds_pro_2",
+      "product_name": "OnePlus OnePlus Buds Pro 2",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_buds_3",
+      "product_name": "OnePlus OnePlus Buds 3",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_oneplus_oneplus_nord_buds_3_pro",
+      "product_name": "OnePlus OnePlus Nord Buds 3 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_dell_xps_16_9640",
+      "product_name": "Dell XPS 16 (9640)",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_dell_xps_14_9440",
+      "product_name": "Dell XPS 14 (9440)",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_dell_xps_13_9340",
+      "product_name": "Dell XPS 13 (9340)",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_dell_inspiron_16_plus",
+      "product_name": "Dell Inspiron 16 Plus",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_dell_inspiron_14_2_in_1",
+      "product_name": "Dell Inspiron 14 2-in-1",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_dell_g16_gaming_laptop",
+      "product_name": "Dell G16 Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_dell_alienware_m18_r2_gaming_laptop",
+      "product_name": "Dell Alienware m18 R2 Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 23
+    },
+    {
+      "product_id": "prod_dell_alienware_x16_r2_gaming_laptop",
+      "product_name": "Dell Alienware x16 R2 Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_dell_alienware_aurora_r16_gaming_desktop",
+      "product_name": "Dell Alienware Aurora R16 Gaming Desktop",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_dell_ultrasharp_32_4k_usb_c_hub_monitor_u3224kb",
+      "product_name": "Dell UltraSharp 32 4K USB-C Hub Monitor (U3224KB)",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_dell_ultrasharp_27_4k_usb_c_hub_monitor_u2723qe",
+      "product_name": "Dell UltraSharp 27 4K USB-C Hub Monitor (U2723QE)",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 13
+    },
+    {
+      "product_id": "prod_dell_pro_wireless_headset_wl5024",
+      "product_name": "Dell Pro Wireless Headset (WL5024)",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_hp_spectre_x360_16_2_in_1_laptop",
+      "product_name": "HP Spectre x360 16 2-in-1 Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_hp_spectre_x360_14_2_in_1_laptop",
+      "product_name": "HP Spectre x360 14 2-in-1 Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_hp_envy_x360_15",
+      "product_name": "HP Envy x360 15",
+      "total_reviews": 50,
+      "average_rating": 3.98,
+      "positive": 28,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_hp_pavilion_plus_14",
+      "product_name": "HP Pavilion Plus 14",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_hp_omen_transcend_14_gaming_laptop",
+      "product_name": "HP OMEN Transcend 14 Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 24
+    },
+    {
+      "product_id": "prod_hp_omen_16_gaming_laptop",
+      "product_name": "HP OMEN 16 Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 29,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 21
+    },
+    {
+      "product_id": "prod_hp_victus_16_gaming_laptop",
+      "product_name": "HP Victus 16 Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_hp_elitebook_840_g10_enterprise_laptop",
+      "product_name": "HP EliteBook 840 G10 Enterprise Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_hp_dragonfly_g4_ultra_light_laptop",
+      "product_name": "HP Dragonfly G4 Ultra-Light Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_hp_series_7_pro_31_5_4k_monitor",
+      "product_name": "HP Series 7 Pro 31.5 4K Monitor",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 13
+    },
+    {
+      "product_id": "prod_lenovo_thinkpad_x1_carbon_gen_12",
+      "product_name": "Lenovo ThinkPad X1 Carbon Gen 12",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_lenovo_thinkpad_t14s_gen_5",
+      "product_name": "Lenovo ThinkPad T14s Gen 5",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_lenovo_yoga_9i_dual_screen_laptop",
+      "product_name": "Lenovo Yoga 9i Dual Screen Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.98,
+      "positive": 29,
+      "negative": 9,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_lenovo_yoga_slim_7x_copilotplus_pc",
+      "product_name": "Lenovo Yoga Slim 7x Copilot+ PC",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_lenovo_legion_pro_7i_gaming_laptop",
+      "product_name": "Lenovo Legion Pro 7i Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 24
+    },
+    {
+      "product_id": "prod_lenovo_legion_9i_gaming_laptop",
+      "product_name": "Lenovo Legion 9i Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 28,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_lenovo_legion_go_handheld_gaming_pc",
+      "product_name": "Lenovo Legion Go Handheld Gaming PC",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_lenovo_ideapad_pro_5_16_inch",
+      "product_name": "Lenovo IdeaPad Pro 5 16-inch",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_lenovo_tab_p12_pro_tablet",
+      "product_name": "Lenovo Tab P12 Pro Tablet",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_lenovo_thinkvision_27_4k_monitor_p27u_20",
+      "product_name": "Lenovo ThinkVision 27 4K Monitor (P27u-20)",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 18
+    },
+    {
+      "product_id": "prod_asus_rog_zephyrus_g16_gaming_laptop",
+      "product_name": "Asus ROG Zephyrus G16 Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 23
+    },
+    {
+      "product_id": "prod_asus_rog_zephyrus_g14_gaming_laptop",
+      "product_name": "Asus ROG Zephyrus G14 Gaming Laptop",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 23
+    },
+    {
+      "product_id": "prod_asus_rog_strix_scar_18",
+      "product_name": "Asus ROG Strix SCAR 18",
+      "total_reviews": 50,
+      "average_rating": 3.98,
+      "positive": 29,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_asus_rog_ally_x_handheld_gaming_pc",
+      "product_name": "Asus ROG Ally X Handheld Gaming PC",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 29,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 21
+    },
+    {
+      "product_id": "prod_asus_rog_phone_8_pro",
+      "product_name": "Asus ROG Phone 8 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_asus_zenbook_14_oled_ux3405",
+      "product_name": "Asus Zenbook 14 OLED (UX3405)",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 28,
+      "negative": 8,
+      "neutral": 0,
+      "mixed": 14
+    },
+    {
+      "product_id": "prod_asus_zenbook_duo_dual_screen_laptop_ux8406",
+      "product_name": "Asus Zenbook Duo Dual-Screen Laptop (UX8406)",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_asus_vivobook_pro_15_oled",
+      "product_name": "Asus Vivobook Pro 15 OLED",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_asus_tuf_gaming_a15",
+      "product_name": "Asus TUF Gaming A15",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 0,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_asus_proart_display_pa32ucg_4k_monitor",
+      "product_name": "Asus ProArt Display PA32UCG 4K Monitor",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 17
+    },
+    {
+      "product_id": "prod_bose_quietcomfort_ultra_headphones",
+      "product_name": "Bose QuietComfort Ultra Headphones",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_bose_quietcomfort_ultra_earbuds",
+      "product_name": "Bose QuietComfort Ultra Earbuds",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_bose_quietcomfort_headphones_2023",
+      "product_name": "Bose QuietComfort Headphones (2023)",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_bose_soundlink_max_bluetooth_speaker",
+      "product_name": "Bose SoundLink Max Bluetooth Speaker",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 27,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_bose_soundlink_flex_2nd_gen_speaker",
+      "product_name": "Bose SoundLink Flex 2nd Gen Speaker",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_bose_smart_ultra_soundbar",
+      "product_name": "Bose Smart Ultra Soundbar",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 29,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_bose_smart_soundbar_600",
+      "product_name": "Bose Smart Soundbar 600",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_bose_quietcomfort_earbuds_ii",
+      "product_name": "Bose QuietComfort Earbuds II",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_xiaomi_xiaomi_15_pro",
+      "product_name": "Xiaomi Xiaomi 15 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_xiaomi_xiaomi_15",
+      "product_name": "Xiaomi Xiaomi 15",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_xiaomi_xiaomi_14_ultra",
+      "product_name": "Xiaomi Xiaomi 14 Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_xiaomi_xiaomi_14",
+      "product_name": "Xiaomi Xiaomi 14",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_xiaomi_xiaomi_14_civi",
+      "product_name": "Xiaomi Xiaomi 14 CIVI",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_xiaomi_xiaomi_13t_pro",
+      "product_name": "Xiaomi Xiaomi 13T Pro",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_xiaomi_redmi_note_14_proplus",
+      "product_name": "Xiaomi Redmi Note 14 Pro+",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_xiaomi_redmi_note_13_pro_5g",
+      "product_name": "Xiaomi Redmi Note 13 Pro 5G",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 17
+    },
+    {
+      "product_id": "prod_xiaomi_xiaomi_pad_6",
+      "product_name": "Xiaomi Xiaomi Pad 6",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_xiaomi_xiaomi_watch_2_pro",
+      "product_name": "Xiaomi Xiaomi Watch 2 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_xiaomi_xiaomi_smart_band_9",
+      "product_name": "Xiaomi Xiaomi Smart Band 9",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_vivo_vivo_x100_pro",
+      "product_name": "Vivo Vivo X100 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_vivo_vivo_x100",
+      "product_name": "Vivo Vivo X100",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_vivo_vivo_v40_pro",
+      "product_name": "Vivo Vivo V40 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_vivo_vivo_v30_pro",
+      "product_name": "Vivo Vivo V30 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.98,
+      "positive": 29,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_oppo_find_x7_ultra",
+      "product_name": "Oppo Find X7 Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_oppo_find_n3_flip",
+      "product_name": "Oppo Find N3 Flip",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_oppo_reno_12_pro",
+      "product_name": "Oppo Reno 12 Pro",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_realme_gt_6",
+      "product_name": "Realme GT 6",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_realme_gt_6t",
+      "product_name": "Realme GT 6T",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 29,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 8
+    },
+    {
+      "product_id": "prod_realme_realme_13_proplus",
+      "product_name": "Realme Realme 13 Pro+",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_realme_realme_12_proplus_5g",
+      "product_name": "Realme Realme 12 Pro+ 5G",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 18
+    },
+    {
+      "product_id": "prod_nothing_nothing_phone_2",
+      "product_name": "Nothing Nothing Phone (2)",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_nothing_nothing_phone_2a",
+      "product_name": "Nothing Nothing Phone (2a)",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_nothing_nothing_phone_2a_plus",
+      "product_name": "Nothing Nothing Phone (2a) Plus",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_nothing_nothing_ear_2024",
+      "product_name": "Nothing Nothing Ear (2024)",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_nothing_nothing_ear_a",
+      "product_name": "Nothing Nothing Ear (a)",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_nothing_cmf_phone_1",
+      "product_name": "Nothing CMF Phone 1",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_nothing_cmf_watch_pro_2",
+      "product_name": "Nothing CMF Watch Pro 2",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_nothing_cmf_buds_pro_2",
+      "product_name": "Nothing CMF Buds Pro 2",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_motorola_motorola_edge_50_ultra",
+      "product_name": "Motorola Motorola Edge 50 Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_motorola_motorola_edge_50_pro",
+      "product_name": "Motorola Motorola Edge 50 Pro",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 29,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_motorola_motorola_edge_50_fusion",
+      "product_name": "Motorola Motorola Edge 50 Fusion",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_motorola_motorola_razr_50_ultra",
+      "product_name": "Motorola Motorola Razr 50 Ultra",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_motorola_motorola_razr_50",
+      "product_name": "Motorola Motorola Razr 50",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_motorola_moto_g85_5g",
+      "product_name": "Motorola Moto G85 5G",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 17
+    },
+    {
+      "product_id": "prod_motorola_moto_g54_5g",
+      "product_name": "Motorola Moto G54 5G",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 17
+    },
+    {
+      "product_id": "prod_sennheiser_momentum_4_wireless_headphones",
+      "product_name": "Sennheiser Momentum 4 Wireless Headphones",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 29,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_sennheiser_momentum_true_wireless_4",
+      "product_name": "Sennheiser Momentum True Wireless 4",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_sennheiser_hd_660s2_open_back_headphones",
+      "product_name": "Sennheiser HD 660S2 Open-Back Headphones",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_jbl_tour_one_m2_wireless_headphones",
+      "product_name": "JBL Tour ONE M2 Wireless Headphones",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_jbl_live_pro_2_tws_earbuds",
+      "product_name": "JBL Live Pro 2 TWS Earbuds",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_jbl_flip_6_portable_waterproof_speaker",
+      "product_name": "JBL Flip 6 Portable Waterproof Speaker",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_jbl_charge_5_portable_speaker",
+      "product_name": "JBL Charge 5 Portable Speaker",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_marshall_stanmore_iii_bluetooth_home_speaker",
+      "product_name": "Marshall Stanmore III Bluetooth Home Speaker",
+      "total_reviews": 50,
+      "average_rating": 3.98,
+      "positive": 28,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_marshall_emberton_ii_portable_speaker",
+      "product_name": "Marshall Emberton II Portable Speaker",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 28,
+      "negative": 11,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_marshall_major_v_on_ear_wireless_headphones",
+      "product_name": "Marshall Major V On-Ear Wireless Headphones",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 12
+    },
+    {
+      "product_id": "prod_garmin_fenix_8_amoled_47mm",
+      "product_name": "Garmin Fenix 8 AMOLED 47mm",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 29,
+      "negative": 4,
+      "neutral": 0,
+      "mixed": 17
+    },
+    {
+      "product_id": "prod_garmin_epix_pro_gen_2_51mm",
+      "product_name": "Garmin Epix Pro Gen 2 51mm",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_garmin_forerunner_965_running_watch",
+      "product_name": "Garmin Forerunner 965 Running Watch",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 29,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 8
+    },
+    {
+      "product_id": "prod_garmin_venu_3_gps_smartwatch",
+      "product_name": "Garmin Venu 3 GPS Smartwatch",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 5,
+      "neutral": 0,
+      "mixed": 18
+    },
+    {
+      "product_id": "prod_garmin_instinct_2x_solar_rugged_watch",
+      "product_name": "Garmin Instinct 2X Solar Rugged Watch",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_canon_eos_r5_mark_ii_mirrorless_camera",
+      "product_name": "Canon EOS R5 Mark II Mirrorless Camera",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 26,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 23
+    },
+    {
+      "product_id": "prod_canon_eos_r6_mark_ii_mirrorless_camera",
+      "product_name": "Canon EOS R6 Mark II Mirrorless Camera",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_nikon_z8_mirrorless_camera",
+      "product_name": "Nikon Z8 Mirrorless Camera",
+      "total_reviews": 50,
+      "average_rating": 3.98,
+      "positive": 29,
+      "negative": 2,
+      "neutral": 0,
+      "mixed": 19
+    },
+    {
+      "product_id": "prod_nikon_z6_iii_mirrorless_camera",
+      "product_name": "Nikon Z6 III Mirrorless Camera",
+      "total_reviews": 50,
+      "average_rating": 3.92,
+      "positive": 27,
+      "negative": 2,
+      "neutral": 0,
+      "mixed": 21
+    },
+    {
+      "product_id": "prod_fujifilm_x_t5_mirrorless_camera",
+      "product_name": "Fujifilm X-T5 Mirrorless Camera",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 25,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 24
+    },
+    {
+      "product_id": "prod_fujifilm_x100vi_digital_camera",
+      "product_name": "Fujifilm X100VI Digital Camera",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 27,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 22
+    },
+    {
+      "product_id": "prod_gopro_hero_13_black_action_camera",
+      "product_name": "GoPro HERO 13 Black Action Camera",
+      "total_reviews": 50,
+      "average_rating": 3.96,
+      "positive": 28,
+      "negative": 1,
+      "neutral": 0,
+      "mixed": 21
+    },
+    {
+      "product_id": "prod_dji_osmo_pocket_3_gimbal_camera",
+      "product_name": "DJI Osmo Pocket 3 Gimbal Camera",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 3,
+      "neutral": 0,
+      "mixed": 19
+    },
+    {
+      "product_id": "prod_dji_mini_4_pro_drone",
+      "product_name": "DJI Mini 4 Pro Drone",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 28,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 10
+    },
+    {
+      "product_id": "prod_dji_air_3_drone",
+      "product_name": "DJI Air 3 Drone",
+      "total_reviews": 50,
+      "average_rating": 3.94,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_microsoft_surface_pro_11th_edition_copilotplus_pc",
+      "product_name": "Microsoft Surface Pro 11th Edition Copilot+ PC",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_microsoft_surface_laptop_7th_edition",
+      "product_name": "Microsoft Surface Laptop 7th Edition",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 27,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 11
+    },
+    {
+      "product_id": "prod_microsoft_xbox_series_x_1tb_console",
+      "product_name": "Microsoft Xbox Series X 1TB Console",
+      "total_reviews": 50,
+      "average_rating": 3.98,
+      "positive": 29,
+      "negative": 12,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_microsoft_xbox_series_s_1tb_console",
+      "product_name": "Microsoft Xbox Series S 1TB Console",
+      "total_reviews": 50,
+      "average_rating": 3.9,
+      "positive": 28,
+      "negative": 13,
+      "neutral": 0,
+      "mixed": 9
+    },
+    {
+      "product_id": "prod_valve_steam_deck_oled_512gb",
+      "product_name": "Valve Steam Deck OLED 512GB",
+      "total_reviews": 50,
+      "average_rating": 3.88,
+      "positive": 27,
+      "negative": 10,
+      "neutral": 0,
+      "mixed": 13
+    },
+    {
+      "product_id": "prod_nintendo_switch_oled_model",
+      "product_name": "Nintendo Switch OLED Model",
+      "total_reviews": 50,
+      "average_rating": 4.0,
+      "positive": 28,
+      "negative": 8,
+      "neutral": 0,
+      "mixed": 14
+    }
+  ],
+  "recent_activity": [
+    {
+      "id": 12058,
+      "product_name": "Nova X Pro",
+      "review_text": "Terrible battery life and screen is dim.",
+      "overall_sentiment": "Negative",
+      "confidence": 0.85,
+      "timestamp": "2026-10-27T15:03:59.899660"
+    },
+    {
+      "id": 12057,
+      "product_name": "Nova X Pro",
+      "review_text": "The camera is gorgeous and charging is fast.",
+      "overall_sentiment": "Positive",
+      "confidence": 0.85,
+      "timestamp": "2026-10-27T15:03:59.895621"
+    },
+    {
+      "id": 12056,
+      "product_name": "Standalone Review",
+      "review_text": "User A private review: Fantastic camera and stunning display.",
+      "overall_sentiment": "Positive",
+      "confidence": 0.85,
+      "timestamp": "2026-10-27T15:03:59.569265"
+    },
+    {
+      "id": 12055,
+      "product_name": "Nintendo Switch OLED Model",
+      "review_text": "Performance speed is not slow, handling daily multitasking with total ease.",
+      "overall_sentiment": "Positive",
+      "confidence": 0.85,
+      "timestamp": "2026-10-27T15:01:51.397397"
+    },
+    {
+      "id": 12054,
+      "product_name": "Nintendo Switch OLED Model",
+      "review_text": "Regarding the Nintendo Switch OLED Model: The camera is excellent and the display looks beautiful, but the battery drain...",
+      "overall_sentiment": "Mixed",
+      "confidence": 0.84,
+      "timestamp": "2026-10-27T15:01:51.396390"
+    },
+    {
+      "id": 12053,
+      "product_name": "Nintendo Switch OLED Model",
+      "review_text": "Regarding the Nintendo Switch OLED Model: Fast wireless charging works well, though the frame gets quite warm during use...",
+      "overall_sentiment": "Mixed",
+      "confidence": 0.85,
+      "timestamp": "2026-10-27T15:01:51.392897"
+    }
+  ]
+}

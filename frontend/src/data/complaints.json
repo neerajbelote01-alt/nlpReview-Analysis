@@ -1,0 +1,369 @@
+[
+  {
+    "aspect_name": "Connectivity",
+    "problem_count": 1176,
+    "percentage": 26.9,
+    "affected_products": [
+      "PixelWave 9",
+      "Nova X Pro"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Battery life is mediocre at best; barely reaches four hours of screen-on time on cellular data.",
+        "evidence": "barely reaches four hours of screen-on time on cellular data",
+        "product": "PixelWave 9"
+      },
+      {
+        "text": "Connectivity issues occur frequently; mobile data drops randomly when switching cell towers.",
+        "evidence": "Connectivity issues occur frequently",
+        "product": "PixelWave 9"
+      },
+      {
+        "text": "Connectivity issues occur frequently with cellular data dropping randomly. Disappointed with this aspect of the Nova X Pro.",
+        "evidence": "dropping",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Connectivity issues occur frequently with cellular data dropping randomly. Disappointed with this aspect of the Nova X Pro.",
+        "evidence": "dropping",
+        "product": "Nova X Pro"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Display",
+    "problem_count": 1173,
+    "percentage": 26.8,
+    "affected_products": [
+      "PixelWave 9",
+      "GalaxySphere S25",
+      "OneMax Ultra"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Battery life is mediocre at best; barely reaches four hours of screen-on time on cellular data.",
+        "evidence": "barely reaches four hours of screen-on time on cellular data",
+        "product": "PixelWave 9"
+      },
+      {
+        "text": "Fingerprint scanner under the display is frustratingly slow and often fails to recognize my thumb.",
+        "evidence": "frustratingly, slow",
+        "product": "PixelWave 9"
+      },
+      {
+        "text": "Display brightness reaches 3000 nits, effortlessly readable under the harshest desert sun.",
+        "evidence": "Display brightness reaches 3000 nits, effortlessly readable ...",
+        "product": "GalaxySphere S25"
+      },
+      {
+        "text": "Durability is moderate; the screen lacks the latest Gorilla Armor protection against drops.",
+        "evidence": "drops",
+        "product": "OneMax Ultra"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Performance",
+    "problem_count": 396,
+    "percentage": 9.1,
+    "affected_products": [
+      "iFruit 17",
+      "GalaxySphere S25",
+      "Nova X Pro",
+      "OneMax Ultra"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Outstanding performance with zero lag in heavy apps. The build quality feels sturdy and premium in hand.",
+        "evidence": "lag",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Camera shutter lag still causes occasional motion blur when taking photos of moving pets.",
+        "evidence": "lag",
+        "product": "GalaxySphere S25"
+      },
+      {
+        "text": "Premium device with top-tier video camera and performance, albeit burdened by an exorbitant price.",
+        "evidence": "exorbitant",
+        "product": "iFruit 17"
+      },
+      {
+        "text": "Camera performance in low light is noisy and muddy, lagging far behind Google and Apple.",
+        "evidence": "noisy, muddy, lagging",
+        "product": "OneMax Ultra"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Battery",
+    "problem_count": 360,
+    "percentage": 8.2,
+    "affected_products": [
+      "PixelWave 9",
+      "Nova X Pro"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Battery backup is terribly weak. I have to recharge twice before evening, which is disappointing for the price.",
+        "evidence": "weak",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "The price is exorbitant for what it delivers. You can get better battery life elsewhere.",
+        "evidence": "You can get better battery life elsewhere",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Battery life is mediocre at best; barely reaches four hours of screen-on time on cellular data.",
+        "evidence": "best, mediocre",
+        "product": "PixelWave 9"
+      },
+      {
+        "text": "Charges slowly, but battery standby overnight drain is barely two percent.",
+        "evidence": "drain",
+        "product": "PixelWave 9"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Price",
+    "problem_count": 356,
+    "percentage": 8.1,
+    "affected_products": [
+      "GalaxySphere S25",
+      "Nova X Pro"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Battery backup is terribly weak. I have to recharge twice before evening, which is disappointing for the price.",
+        "evidence": "disappointing",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "At this price tag of twelve hundred dollars, it feels slightly overpriced compared to competitors.",
+        "evidence": "overpriced",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "The price is exorbitant for what it delivers. You can get better battery life elsewhere.",
+        "evidence": "exorbitant",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Price tag is astronomical; over fourteen hundred dollars is hard to justify for most buyers.",
+        "evidence": "astronomical",
+        "product": "GalaxySphere S25"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Camera",
+    "problem_count": 307,
+    "percentage": 7.0,
+    "affected_products": [
+      "iFruit 17",
+      "GalaxySphere S25",
+      "Nova X Pro"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Disappointed with the thermal performance; the phone gets uncomfortably hot during long video calls.",
+        "evidence": "hot",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Camera shutter lag still causes occasional motion blur when taking photos of moving pets.",
+        "evidence": "lag",
+        "product": "GalaxySphere S25"
+      },
+      {
+        "text": "The camera telephoto is wonderful, but ultra-wide lens exhibits edge distortion in dim lighting.",
+        "evidence": "distortion",
+        "product": "GalaxySphere S25"
+      },
+      {
+        "text": "Camera struggles with lens flare reflections when recording light sources at night.",
+        "evidence": "Camera struggles with lens flare reflections when recording ...",
+        "product": "iFruit 17"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Audio and speakers",
+    "problem_count": 296,
+    "percentage": 6.8,
+    "affected_products": [
+      "iFruit 17",
+      "Nova X Pro",
+      "JBL Flip 6 Portable Waterproof Speaker"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Camera optics are sharp, but audio from the bottom speaker sounds hollow and lacks bass.",
+        "evidence": "hollow",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Speakers sound spacious with decent bass response and distortion-free volume at maximum levels.",
+        "evidence": "decent, distortion",
+        "product": "iFruit 17"
+      },
+      {
+        "text": "Microphone quality for recording voice memos and podcasts is studio grade.",
+        "evidence": "Microphone quality for recording voice memos and podcasts is...",
+        "product": "iFruit 17"
+      },
+      {
+        "text": "Reviewing the JBL Flip 6 Portable Waterproof Speaker: At this price point it feels slightly expensive, though the software interface is remarkably clean and intuitive.",
+        "evidence": "expensive",
+        "product": "JBL Flip 6 Portable Waterproof Speaker"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Build quality",
+    "problem_count": 291,
+    "percentage": 6.7,
+    "affected_products": [
+      "iFruit 17",
+      "PixelWave 9",
+      "GalaxySphere S25",
+      "Nova X Pro"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Regarding the Nova X Pro: Fast wireless charging works well, though the frame gets quite warm during use.",
+        "evidence": "warm",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Regarding the PixelWave 9: Fast wireless charging works well, though the frame gets quite warm during use.",
+        "evidence": "warm",
+        "product": "PixelWave 9"
+      },
+      {
+        "text": "Regarding the GalaxySphere S25: Fast wireless charging works well, though the frame gets quite warm during use.",
+        "evidence": "warm",
+        "product": "GalaxySphere S25"
+      },
+      {
+        "text": "Regarding the iFruit 17: Fast wireless charging works well, though the frame gets quite warm during use.",
+        "evidence": "warm",
+        "product": "iFruit 17"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Durability",
+    "problem_count": 6,
+    "percentage": 0.1,
+    "affected_products": [
+      "PixelWave 9",
+      "Nova X Pro",
+      "JBL Flip 6 Portable Waterproof Speaker",
+      "OneMax Ultra"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "The design looks sleek with the matte finish, but durability is questionable after a light drop left a scratch.",
+        "evidence": "durability is questionable after a light drop left a scratch",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Connectivity issues occur frequently; mobile data drops randomly when switching cell towers.",
+        "evidence": "drops",
+        "product": "PixelWave 9"
+      },
+      {
+        "text": "Durability is moderate; the screen lacks the latest Gorilla Armor protection against drops.",
+        "evidence": "drops",
+        "product": "OneMax Ultra"
+      },
+      {
+        "text": "Reviewing the JBL Flip 6 Portable Waterproof Speaker: At this price point it feels slightly expensive, though the software interface is remarkably clean and intuitive.",
+        "evidence": "expensive",
+        "product": "JBL Flip 6 Portable Waterproof Speaker"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Charging",
+    "problem_count": 4,
+    "percentage": 0.1,
+    "affected_products": [
+      "PixelWave 9",
+      "GalaxySphere S25",
+      "Nova X Pro",
+      "OneMax Ultra"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Battery backup is terribly weak. I have to recharge twice before evening, which is disappointing for the price.",
+        "evidence": "disappointing",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Charging is painfully slow capped at twenty-seven watts, taking nearly ninety minutes for a full charge.",
+        "evidence": "slow",
+        "product": "PixelWave 9"
+      },
+      {
+        "text": "Charging tops out at 45W which feels modest for such a massive battery cell.",
+        "evidence": "Charging tops out at 45W which feels modest for such a massi...",
+        "product": "GalaxySphere S25"
+      },
+      {
+        "text": "Battery stamina is solid, but rapid charging causes noticeable warmth during the first ten minutes.",
+        "evidence": "rapid charging causes noticeable warmth during the first ten...",
+        "product": "OneMax Ultra"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Software and user interface",
+    "problem_count": 3,
+    "percentage": 0.1,
+    "affected_products": [
+      "Nova X Pro",
+      "OneMax Ultra"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "Software UI has too much bloatware pre-installed, though the processor handles multitasking easily.",
+        "evidence": "bloatware",
+        "product": "Nova X Pro"
+      },
+      {
+        "text": "Software UI contains annoying notifications and bloatware that require tedious debloating.",
+        "evidence": "bloatware",
+        "product": "OneMax Ultra"
+      },
+      {
+        "text": "Software skin feels unpolished with occasional mistranslations in settings menus.",
+        "evidence": "unpolished",
+        "product": "OneMax Ultra"
+      }
+    ]
+  },
+  {
+    "aspect_name": "Design",
+    "problem_count": 2,
+    "percentage": 0.0,
+    "affected_products": [
+      "GalaxySphere S25"
+    ],
+    "representative_excerpts": [
+      {
+        "text": "The phone is very heavy and bulky in the pocket, making one-handed operation difficult.",
+        "evidence": "The phone is very heavy and bulky in the pocket, making one-...",
+        "product": "GalaxySphere S25"
+      },
+      {
+        "text": "Design is industrial and boxy; sharp corners can dig into your palm during prolonged use.",
+        "evidence": "Design is industrial and boxy",
+        "product": "GalaxySphere S25"
+      }
+    ]
+  }
+]

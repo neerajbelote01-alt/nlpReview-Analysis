@@ -1,0 +1,136 @@
+{
+  "dataset_info": {
+    "total_samples": 120,
+    "train_samples": 90,
+    "test_samples": 30,
+    "test_size": 0.25,
+    "random_state": 42
+  },
+  "primary_model": {
+    "name": "TF-IDF + Logistic Regression (Balanced)",
+    "accuracy": 0.6,
+    "precision_macro": 0.4977,
+    "recall_macro": 0.4722,
+    "f1_macro": 0.4675,
+    "f1_weighted": 0.5656,
+    "labels": [
+      "Negative",
+      "Neutral",
+      "Positive",
+      "Mixed"
+    ],
+    "confusion_matrix": [
+      {
+        "true_label": "Negative",
+        "Negative": 5,
+        "Neutral": 0,
+        "Positive": 4,
+        "Mixed": 0
+      },
+      {
+        "true_label": "Neutral",
+        "Negative": 0,
+        "Neutral": 0,
+        "Positive": 3,
+        "Mixed": 0
+      },
+      {
+        "true_label": "Positive",
+        "Negative": 1,
+        "Neutral": 0,
+        "Positive": 10,
+        "Mixed": 1
+      },
+      {
+        "true_label": "Mixed",
+        "Negative": 1,
+        "Neutral": 0,
+        "Positive": 2,
+        "Mixed": 3
+      }
+    ],
+    "raw_confusion_matrix": [
+      [
+        5,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        0,
+        10,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        3
+      ]
+    ],
+    "classification_report": [
+      {
+        "class": "Negative",
+        "precision": 0.7143,
+        "recall": 0.5556,
+        "f1_score": 0.625,
+        "support": 9
+      },
+      {
+        "class": "Neutral",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 3
+      },
+      {
+        "class": "Positive",
+        "precision": 0.5263,
+        "recall": 0.8333,
+        "f1_score": 0.6452,
+        "support": 12
+      },
+      {
+        "class": "Mixed",
+        "precision": 0.75,
+        "recall": 0.5,
+        "f1_score": 0.6,
+        "support": 6
+      }
+    ]
+  },
+  "model_comparison": [
+    {
+      "model_name": "Logistic Regression",
+      "accuracy": 0.6,
+      "precision_macro": 0.4977,
+      "recall_macro": 0.4722,
+      "f1_macro": 0.4675,
+      "f1_weighted": 0.5656
+    },
+    {
+      "model_name": "Linear SVM (LinearSVC)",
+      "accuracy": 0.5333,
+      "precision_macro": 0.4524,
+      "recall_macro": 0.4028,
+      "f1_macro": 0.396,
+      "f1_weighted": 0.4913
+    },
+    {
+      "model_name": "Multinomial Naive Bayes",
+      "accuracy": 0.4667,
+      "precision_macro": 0.2404,
+      "recall_macro": 0.3056,
+      "f1_macro": 0.2348,
+      "f1_weighted": 0.3449
+    }
+  ],
+  "methodology": "Reproducible 75/25 stratified train/test split. TF-IDF feature extraction with sublinear term frequency and (1, 2) n-grams. Negation-aware linguistic cues integrated with calibrated probability outputs."
+}
