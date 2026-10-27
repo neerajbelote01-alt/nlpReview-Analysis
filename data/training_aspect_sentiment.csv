@@ -1,0 +1,121 @@
+aspect,sentence,sentiment
+Camera,The camera captures unbelievable night photos with stunning dynamic range.,Positive
+Camera,"Camera optics are sharp, producing crisp and detailed portrait shots.",Positive
+Camera,The computational camera is hands down the best on the market for skin tones.,Positive
+Camera,"Low-light photos are muddy, noisy, and completely unusable.",Negative
+Camera,Camera shutter lag still causes frequent motion blur on moving subjects.,Negative
+Camera,"Camera zoom beyond 10x loses sharpness rapidly, but 1x shots look great.",Mixed
+Camera,"The camera telephoto is wonderful, but ultra-wide lens exhibits distortion.",Mixed
+Camera,The camera has standard 50 megapixel sensor with triple lens setup.,Neutral
+Camera,"Camera low-light video is not bad, but daytime shots are definitely better.",Positive
+Camera,The front selfie camera is definitely not good in dim lighting.,Negative
+Battery,The 6500mAh battery is an absolute beast lasting two full days.,Positive
+Battery,"Battery backup is exceptional, giving over ten hours of screen time.",Positive
+Battery,Battery health holds up well and easily delivers all-day usage.,Positive
+Battery,Battery backup is terribly weak and drains out before afternoon.,Negative
+Battery,"Battery life is mediocre at best, barely reaching four hours.",Negative
+Battery,"The battery drains quickly when gaming, but lasts fine on standby.",Mixed
+Battery,"Battery is not terrible for light users, but power users will struggle.",Mixed
+Battery,The device houses a typical 5000 milliamp hour lithium ion cell.,Neutral
+Battery,Battery drain is not bad after the recent system update.,Positive
+Battery,The battery is not lasting as long as the marketing promised.,Negative
+Display,"The 144Hz AMOLED display is bright, fluid, and beautifully calibrated.",Positive
+Display,Dynamic AMOLED display with anti-reflective coating is stunning.,Positive
+Display,Display with 120Hz ProMotion is butter smooth with vivid colors.,Positive
+Display,The screen suffers from awful green tint and noticeable flicker.,Negative
+Display,Maximum peak brightness struggles terribly under direct noon sunlight.,Negative
+Display,"Display colors are vibrant, though peak brightness is weak outdoors.",Mixed
+Display,"The display resolution is crisp, yet auto-brightness reacts sluggishly.",Mixed
+Display,The handset features a 6.7 inch OLED screen with 120Hz refresh.,Neutral
+Display,Screen clarity is not bad for an entry-tier panel.,Positive
+Display,The display response is not responsive during rapid typing.,Negative
+Performance,Outstanding performance with zero lag or frame drops in heavy apps.,Positive
+Performance,A19 Bionic chip provides blistering performance and speed.,Positive
+Performance,Multitasking performance and split screen rendering are unmatched.,Positive
+Performance,The phone stutters constantly and freezes when opening multiple tabs.,Negative
+Performance,Thermal performance is awful; it gets uncomfortably hot quickly.,Negative
+Performance,"Gaming performance is fast, but it does thermal throttle after 30 mins.",Mixed
+Performance,"Performance is smooth for light tasks, but chokes on heavy gaming.",Mixed
+Performance,The processor runs at standard factory clock speeds without overclocking.,Neutral
+Performance,"Speed is not slow, handling daily apps with ease.",Positive
+Performance,Processor speed is not fast enough to justify this flagship branding.,Negative
+Price,Aggressive price offers unbeatable hardware specifications per dollar.,Positive
+Price,The price point is competitive and offers tremendous overall value.,Positive
+Price,Price to performance ratio is well balanced compared to rival flagships.,Positive
+Price,Price tag is astronomical and hard to justify for most buyers.,Negative
+Price,"At twelve hundred dollars, it feels egregiously overpriced.",Negative
+Price,"Price is steep, but trade-in deals make it acceptable for power users.",Mixed
+Price,"The pricing is reasonable on sale, but full retail is a bit much.",Mixed
+Price,Retail pricing is currently set at eight hundred and ninety nine dollars.,Neutral
+Price,The price is not expensive considering the bundled accessories.,Positive
+Price,The retail price is not affordable for average working students.,Negative
+Design,Sleek minimalist design with titanium frame feels extraordinarily luxurious.,Positive
+Design,The design is unique with the camera visor and comfortable curved edges.,Positive
+Design,Design with RGB notification accent gives a modern cyber gaming flair.,Positive
+Design,"The phone is ugly, awkward to hold, and extremely thick.",Negative
+Design,Industrial boxy design with sharp corners digs painfully into your palm.,Negative
+Design,"The design looks sleek, but the glossy back is an absolute fingerprint magnet.",Mixed
+Design,"Aesthetics are gorgeous, though the camera module protrudes significantly.",Mixed
+Design,The smartphone adopts standard rounded rectangular chassis proportions.,Neutral
+Design,The ergonomics and outer look are not bad in hand.,Positive
+Design,The overall design is not appealing or ergonomic for small hands.,Negative
+Build quality,Build quality is second to none with precision tolerances and tight seams.,Positive
+Build quality,Armor aluminum build and Gorilla glass offer unmatched structural rigidity.,Positive
+Build quality,"The build quality feels sturdy, solid, and premium in hand.",Positive
+Build quality,Build quality feels cheap with creaky plastic panels and loose buttons.,Negative
+Build quality,The chassis flexes when squeezed and feels flimsy.,Negative
+Build quality,"Build quality is decent with titanium frame, but rear glass scratches easily.",Mixed
+Build quality,"Solid frame construction, but volume buttons feel slightly wobbly.",Mixed
+Build quality,Constructed using an aluminum alloy midframe and tempered glass back.,Neutral
+Build quality,The chassis materials are not cheap at all.,Positive
+Build quality,The build quality is not durable enough for daily drops.,Negative
+Audio and speakers,Stereo speakers tuned with Dolby Atmos deliver punchy sound and bass.,Positive
+Audio and speakers,Great audio quality with rich stereo separation when watching movies.,Positive
+Audio and speakers,Microphone and audio call clarity are crystal clear.,Positive
+Audio and speakers,"Audio from the bottom speaker sounds hollow, tinny, and lacks bass.",Negative
+Audio and speakers,Speaker volume is too quiet and crackles at high decibels.,Negative
+Audio and speakers,"Speaker volume is adequately loud for podcasts, though lacks bass.",Mixed
+Audio and speakers,"Audio is clear on calls, but music playback sounds flat.",Mixed
+Audio and speakers,Features dual stereo speaker grills positioned on top and bottom.,Neutral
+Audio and speakers,Acoustic output is not quiet and fills the entire bedroom.,Positive
+Audio and speakers,Speaker quality is not clear and muffles vocal tracks.,Negative
+Software and user interface,Operating software is clean and intuitive with smooth animations.,Positive
+Software and user interface,Clean software interface with zero bloatware and prompt updates.,Positive
+Software and user interface,"iOS software ecosystem is polished, fluid, and seamless.",Positive
+Software and user interface,Software UI has unbearable bloatware and intrusive ad notifications.,Negative
+Software and user interface,Software skin feels unpolished with buggy navigation glitches.,Negative
+Software and user interface,"Software UI is smooth, yet a few system app stutter bugs appeared.",Mixed
+Software and user interface,"Clean stock launcher, but settings menu is confusingly organized.",Mixed
+Software and user interface,Shipped with Android 15 out of the box with stock launcher.,Neutral
+Software and user interface,The operating system is not bloated compared to rivals.,Positive
+Software and user interface,The user interface is not intuitive for first-time smartphone users.,Negative
+Connectivity,"Wi-Fi and 5G connectivity are solid, maintaining full signal.",Positive
+Connectivity,5G reception and Wi-Fi 7 speeds are blazing fast with rock-solid stability.,Positive
+Connectivity,Dual SIM 5G network reception connects instantly without dropping packets.,Positive
+Connectivity,Connectivity issues occur frequently; mobile data drops randomly.,Negative
+Connectivity,Bluetooth range is pathetic and disconnects when walking into next room.,Negative
+Connectivity,"Cellular reception is strong in cities, but weak in rural areas.",Mixed
+Connectivity,"Wi-Fi speeds are ultra fast, though Bluetooth pairing is occasionally flaky.",Mixed
+Connectivity,Supports sub-6GHz 5G bands and Bluetooth 5.4 wireless protocol.,Neutral
+Connectivity,Network signal reception is not weak even in elevators.,Positive
+Connectivity,Cellular connectivity is not reliable when traveling on highways.,Negative
+Charging,The 150W ultra-fast charging replenishes battery to full in 20 minutes.,Positive
+Charging,"Fast charging works as advertised, reaching 80 percent in 25 minutes.",Positive
+Charging,Wireless charging is convenient and Qi2 magnetic alignment snaps tight.,Positive
+Charging,"Charging is painfully slow capped at 20W, taking over two hours.",Negative
+Charging,Overheats dangerously during fast charging and stops halfway.,Negative
+Charging,"Fast charging speed is phenomenal, though charging brick is not in the box.",Mixed
+Charging,"Charges fast initially, but slows down dramatically after 70 percent.",Mixed
+Charging,Charges via standard USB Type C port with 30 watt power delivery.,Neutral
+Charging,Charging speed is not slow when using the official adapter.,Positive
+Charging,Wireless charging speed is not fast enough for quick top-ups.,Negative
+Durability,Ceramic shield durability prevented glass shattering when dropped on stone.,Positive
+Durability,Superb durability; dropped it on hardwood floor without a single dent.,Positive
+Durability,IP68 water resistance survived an accidental dip into pool unharmed.,Positive
+Durability,Durability is terrible; light drop from pocket shattered back glass completely.,Negative
+Durability,The screen scratched deeply from simply being in pocket with keys.,Negative
+Durability,"The frame survived drops, but camera lens glass cracked easily.",Mixed
+Durability,"Good water protection, but outer paint coating chips over time.",Mixed
+Durability,Rated IP68 for dust ingress and water submersion up to 1.5 meters.,Neutral
+Durability,Structural durability is not fragile despite the slim glass profile.,Positive
+Durability,The screen glass is not scratch-resistant against fine beach sand.,Negative

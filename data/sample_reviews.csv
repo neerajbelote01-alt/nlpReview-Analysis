@@ -1,0 +1,106 @@
+review_id,product_id,product_name,category,review_text,rating,source_type
+rev_001,prod_nova_x,Nova X Pro,Flagship Smartphone,"The camera captures unbelievable night photos and the display is gorgeous, but the battery drains fast when gaming.",4,synthetic_demo
+rev_002,prod_nova_x,Nova X Pro,Flagship Smartphone,Outstanding performance with zero lag in heavy apps. The build quality feels sturdy and premium in hand.,5,synthetic_demo
+rev_003,prod_nova_x,Nova X Pro,Flagship Smartphone,"Battery backup is terribly weak. I have to recharge twice before evening, which is disappointing for the price.",2,synthetic_demo
+rev_004,prod_nova_x,Nova X Pro,Flagship Smartphone,The 144Hz AMOLED display is bright outdoors and touch response is lightning quick.,5,synthetic_demo
+rev_005,prod_nova_x,Nova X Pro,Flagship Smartphone,"Camera optics are sharp, but audio from the bottom speaker sounds hollow and lacks bass.",3,synthetic_demo
+rev_006,prod_nova_x,Nova X Pro,Flagship Smartphone,"At this price tag of twelve hundred dollars, it feels slightly overpriced compared to competitors.",3,synthetic_demo
+rev_007,prod_nova_x,Nova X Pro,Flagship Smartphone,"Software UI has too much bloatware pre-installed, though the processor handles multitasking easily.",3,synthetic_demo
+rev_008,prod_nova_x,Nova X Pro,Flagship Smartphone,"Fast charging works as advertised, going from zero to eighty percent in twenty-five minutes.",5,synthetic_demo
+rev_009,prod_nova_x,Nova X Pro,Flagship Smartphone,"The design looks sleek with the matte finish, but durability is questionable after a light drop left a scratch.",3,synthetic_demo
+rev_010,prod_nova_x,Nova X Pro,Flagship Smartphone,"Wi-Fi and 5G connectivity are solid, maintaining full signal even in basement parking.",5,synthetic_demo
+rev_011,prod_nova_x,Nova X Pro,Flagship Smartphone,"Camera shutter speed is instant and portrait shots have natural bokeh, highly recommend for photography.",5,synthetic_demo
+rev_012,prod_nova_x,Nova X Pro,Flagship Smartphone,Disappointed with the thermal performance; the phone gets uncomfortably hot during long video calls.,2,synthetic_demo
+rev_013,prod_nova_x,Nova X Pro,Flagship Smartphone,"Build quality is decent with the titanium chassis, but the rear glass gathers fingerprints quickly.",4,synthetic_demo
+rev_014,prod_nova_x,Nova X Pro,Flagship Smartphone,"The display resolution is crisp, yet the auto-brightness sensor reacts sluggishly in low light.",3,synthetic_demo
+rev_015,prod_nova_x,Nova X Pro,Flagship Smartphone,Microphone and audio call clarity are crystal clear. Bluetooth pairing with my headphones is instant.,5,synthetic_demo
+rev_016,prod_nova_x,Nova X Pro,Flagship Smartphone,"Charging speed is phenomenal, though the charging brick is unfortunately not included in the box.",3,synthetic_demo
+rev_017,prod_nova_x,Nova X Pro,Flagship Smartphone,Operating software is clean and intuitive with smooth animations and regular security patches.,5,synthetic_demo
+rev_018,prod_nova_x,Nova X Pro,Flagship Smartphone,The price is exorbitant for what it delivers. You can get better battery life elsewhere.,2,synthetic_demo
+rev_019,prod_nova_x,Nova X Pro,Flagship Smartphone,Superb durability; accidentally dropped it on hardwood floor and there was not a single dent.,5,synthetic_demo
+rev_020,prod_nova_x,Nova X Pro,Flagship Smartphone,"Camera low-light video is somewhat noisy, but daytime pictures are vibrant and clear.",4,synthetic_demo
+rev_021,prod_nova_x,Nova X Pro,Flagship Smartphone,Overall balanced device. Performance is smooth for everyday social media and browsing.,4,synthetic_demo
+rev_022,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"The computational camera is hands down the best on the market, capturing skin tones with immaculate accuracy.",5,synthetic_demo
+rev_023,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,Clean software interface with zero bloatware and prompt Android updates is a breath of fresh air.,5,synthetic_demo
+rev_024,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,Battery life is mediocre at best; barely reaches four hours of screen-on time on cellular data.,2,synthetic_demo
+rev_025,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"The design is unique with the camera visor, and the ergonomic curved edges feel comfortable.",4,synthetic_demo
+rev_026,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,Fingerprint scanner under the display is frustratingly slow and often fails to recognize my thumb.,2,synthetic_demo
+rev_027,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,Great audio quality with rich stereo separation when watching movies without headphones.,5,synthetic_demo
+rev_028,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,The price point is competitive and offers tremendous value for flagship-level photography.,5,synthetic_demo
+rev_029,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Charging is painfully slow capped at twenty-seven watts, taking nearly ninety minutes for a full charge.",2,synthetic_demo
+rev_030,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,Connectivity issues occur frequently; mobile data drops randomly when switching cell towers.,2,synthetic_demo
+rev_031,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Display colors are vibrant and accurate, though maximum peak brightness struggles under direct noon sunlight.",3,synthetic_demo
+rev_032,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Build quality feels solid, but the glossy visor bar is prone to micro-scratches over time.",3,synthetic_demo
+rev_033,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,The AI software features like live translation and photo unblur actually work like magic.,5,synthetic_demo
+rev_034,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Gaming performance is not bad, but it does thermal throttle after thirty minutes in Genshin Impact.",3,synthetic_demo
+rev_035,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Battery is not terrible for light users, but heavy power users will definitely need a power bank.",3,synthetic_demo
+rev_036,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,Price to performance ratio is well balanced compared to rival flagships.,4,synthetic_demo
+rev_037,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Speaker volume is adequately loud for podcasts and calls, though lacks deep low-end frequencies.",3,synthetic_demo
+rev_038,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,Durability passed the test; survived a rainy bike commute with no water ingress whatsoever.,5,synthetic_demo
+rev_039,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Camera zoom beyond 10x loses sharpness rapidly, but standard 1x and 5x optical shots look spectacular.",4,synthetic_demo
+rev_040,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Software user interface is smooth, yet a few system app stutter bugs appeared after the latest patch.",3,synthetic_demo
+rev_041,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Charges slowly, but battery standby overnight drain is barely two percent.",4,synthetic_demo
+rev_042,prod_pixelwave_9,PixelWave 9,AI Camera Smartphone,"Outstanding camera and display combo, making editing photos on the go an absolute delight.",5,synthetic_demo
+rev_043,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,The 6500mAh battery is an absolute beast lasting two full days of heavy productivity work.,5,synthetic_demo
+rev_044,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Dynamic AMOLED display with anti-reflective coating is the finest screen ever put on a smartphone.,5,synthetic_demo
+rev_045,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,"Camera 100x space zoom is impressive for concerts, while 200MP detail allows deep cropping.",5,synthetic_demo
+rev_046,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,"The phone is very heavy and bulky in the pocket, making one-handed operation difficult.",3,synthetic_demo
+rev_047,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Price tag is astronomical; over fourteen hundred dollars is hard to justify for most buyers.,2,synthetic_demo
+rev_048,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Multitasking performance with the S-Pen and split-screen mode is unmatched by any other handset.,5,synthetic_demo
+rev_049,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Charging tops out at 45W which feels modest for such a massive battery cell.,3,synthetic_demo
+rev_050,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Stereo speakers tuned by Dolby Atmos deliver punchy sound and clear dialogue for movies.,5,synthetic_demo
+rev_051,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Software UI has too many duplicate services and Samsung account prompts out of the box.,3,synthetic_demo
+rev_052,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Armor aluminum build and Gorilla Armor glass offer unmatched drop and scratch durability.,5,synthetic_demo
+rev_053,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,5G reception and Wi-Fi 7 speeds are blazing fast with rock-solid stability.,5,synthetic_demo
+rev_054,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Camera shutter lag still causes occasional motion blur when taking photos of moving pets.,3,synthetic_demo
+rev_055,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,"Display brightness reaches 3000 nits, effortlessly readable under the harshest desert sun.",5,synthetic_demo
+rev_056,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Design is industrial and boxy; sharp corners can dig into your palm during prolonged use.,3,synthetic_demo
+rev_057,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,"Battery optimization software is intelligent, putting unused background apps to sleep effectively.",5,synthetic_demo
+rev_058,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,"Price is steep, but trade-in deals make it acceptable for power users seeking longevity.",4,synthetic_demo
+rev_059,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Audio output via USB-C DAC is pristine with high-resolution lossless audio support.,5,synthetic_demo
+rev_060,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Performance never throttles even during 8K video rendering and continuous benchmark runs.,5,synthetic_demo
+rev_061,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,Durability is top-tier; IP68 rating survived an accidental dip into a swimming pool unharmed.,5,synthetic_demo
+rev_062,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,"The camera telephoto is wonderful, but ultra-wide lens exhibits edge distortion in dim lighting.",3,synthetic_demo
+rev_063,prod_galaxysphere_s25,GalaxySphere S25,Productivity Smartphone,"Comprehensive flagship that nails battery, screen, and processing speed, despite high price.",5,synthetic_demo
+rev_064,prod_ifruit_17,iFruit 17,Premium Smartphone,"A19 Bionic chip provides blistering performance, opening apps instantly with zero frame drops.",5,synthetic_demo
+rev_065,prod_ifruit_17,iFruit 17,Premium Smartphone,Camera cinematic 4K video recording and spatial audio are unmatched in the industry.,5,synthetic_demo
+rev_066,prod_ifruit_17,iFruit 17,Premium Smartphone,Battery health holds up well and easily delivers all-day usage on a single charge.,4,synthetic_demo
+rev_067,prod_ifruit_17,iFruit 17,Premium Smartphone,The price is absurdly high and base storage remains stingy for a premium flagship.,2,synthetic_demo
+rev_068,prod_ifruit_17,iFruit 17,Premium Smartphone,"iOS software ecosystem is polished and seamless, though file transfer with Windows is frustrating.",3,synthetic_demo
+rev_069,prod_ifruit_17,iFruit 17,Premium Smartphone,Sleek minimalist design with titanium frame feels extraordinarily luxurious and lightweight.,5,synthetic_demo
+rev_070,prod_ifruit_17,iFruit 17,Premium Smartphone,Display with 120Hz ProMotion is butter smooth and colors are calibrated for photo accuracy.,5,synthetic_demo
+rev_071,prod_ifruit_17,iFruit 17,Premium Smartphone,"Charging speed is disappointingly limited to 25W, lagging far behind modern fast-charge standards.",2,synthetic_demo
+rev_072,prod_ifruit_17,iFruit 17,Premium Smartphone,Ceramic shield durability prevented glass shattering when it slipped out of my jacket.,5,synthetic_demo
+rev_073,prod_ifruit_17,iFruit 17,Premium Smartphone,Speakers sound spacious with decent bass response and distortion-free volume at maximum levels.,5,synthetic_demo
+rev_074,prod_ifruit_17,iFruit 17,Premium Smartphone,Wi-Fi and satellite connectivity provide great peace of mind in remote outdoor regions.,5,synthetic_demo
+rev_075,prod_ifruit_17,iFruit 17,Premium Smartphone,Camera struggles with lens flare reflections when recording light sources at night.,3,synthetic_demo
+rev_076,prod_ifruit_17,iFruit 17,Premium Smartphone,"Display brightness is excellent, but the dynamic island cutout occasionally obscures widescreen videos.",3,synthetic_demo
+rev_077,prod_ifruit_17,iFruit 17,Premium Smartphone,Build quality is second to none with precision tolerances and tight seam craftsmanship.,5,synthetic_demo
+rev_078,prod_ifruit_17,iFruit 17,Premium Smartphone,Price to value is questionably low if you only use basic messaging and web browsing.,2,synthetic_demo
+rev_079,prod_ifruit_17,iFruit 17,Premium Smartphone,"Software updates are guaranteed for six years, making this an excellent long-term investment.",5,synthetic_demo
+rev_080,prod_ifruit_17,iFruit 17,Premium Smartphone,"Performance in gaming is blazing fast, but thermal dissipation could be better as the frame warms up.",3,synthetic_demo
+rev_081,prod_ifruit_17,iFruit 17,Premium Smartphone,"Battery charges safely, but the lack of an included charging adapter is penny-pinching.",3,synthetic_demo
+rev_082,prod_ifruit_17,iFruit 17,Premium Smartphone,Microphone quality for recording voice memos and podcasts is studio grade.,5,synthetic_demo
+rev_083,prod_ifruit_17,iFruit 17,Premium Smartphone,"Design aesthetics are gorgeous, though the camera module protrudes significantly on flat desks.",4,synthetic_demo
+rev_084,prod_ifruit_17,iFruit 17,Premium Smartphone,"Premium device with top-tier video camera and performance, albeit burdened by an exorbitant price.",4,synthetic_demo
+rev_085,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,"The 150W ultra-fast charging is unbelievable, replenishing the battery from dead to full in twenty minutes.",5,synthetic_demo
+rev_086,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Gaming performance is insane with vapor chamber cooling keeping temperatures icy cool during PUBG.,5,synthetic_demo
+rev_087,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Display refresh rate is super responsive and 2K resolution looks strikingly sharp.,5,synthetic_demo
+rev_088,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,"Camera performance in low light is noisy and muddy, lagging far behind Google and Apple.",2,synthetic_demo
+rev_089,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Aggressive price offers unbeatable hardware specifications per dollar spent.,5,synthetic_demo
+rev_090,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Battery capacity of 5500mAh easily lasts through an intense day of gaming and streaming.,5,synthetic_demo
+rev_091,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Software UI contains annoying notifications and bloatware that require tedious debloating.,2,synthetic_demo
+rev_092,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Dual stereo speakers produce thunderous volume with immersive spatial gaming acoustics.,5,synthetic_demo
+rev_093,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Build quality uses plastic frame accents that feel slightly cheap compared to glass flagships.,3,synthetic_demo
+rev_094,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Design with RGB notification accent on the back gives a modern cyber gaming flair.,4,synthetic_demo
+rev_095,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Connectivity with dual 5G SIMs and Wi-Fi 7 is rock solid with minimal ping in multiplayer games.,5,synthetic_demo
+rev_096,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,"Charging brick is included in the box with a sturdy braided cable, fantastic customer touch.",5,synthetic_demo
+rev_097,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,"Camera color science is inconsistent, sometimes over-saturating greens and skies.",3,synthetic_demo
+rev_098,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Durability is moderate; the screen lacks the latest Gorilla Armor protection against drops.,3,synthetic_demo
+rev_099,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,"Display peak brightness is decent indoors, but slightly washed out in direct glaring sunlight.",3,synthetic_demo
+rev_100,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,"Performance benchmarks set record highs, handling video export with remarkable speed.",5,synthetic_demo
+rev_101,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,"Price is very aggressive, offering flagship speed at nearly half the cost of major brands.",5,synthetic_demo
+rev_102,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,Software skin feels unpolished with occasional mistranslations in settings menus.,2,synthetic_demo
+rev_103,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,"Audio headphone jack is surprisingly preserved with Hi-Res certification, a rare win.",5,synthetic_demo
+rev_104,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,"Battery stamina is solid, but rapid charging causes noticeable warmth during the first ten minutes.",3,synthetic_demo
+rev_105,prod_onemax_ultra,OneMax Ultra,Performance Smartphone,A gaming and charging beast that cuts corners on camera and software to keep the price accessible.,4,synthetic_demo

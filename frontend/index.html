@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2306b6d4' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M12 2a10 10 0 1 0 10 10H12V2z'></path><path d='M12 12 2.1 10.5'></path><path d='M12 12V2.1'></path></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ReviewIQ AI — Aspect-Based Sentiment Analysis Using NLP</title>
+    <meta name="description" content="AI-based fine-grained product review aspect sentiment analysis using Natural Language Processing." />
+
+    <!-- Prevent theme flash on page reload -->
+    <script>
+      (function() {
+        try {
+          var saved = localStorage.getItem('reviewiq_theme') || 'dark';
+          var isDark = false;
+          if (saved === 'system') {
+            isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          } else {
+            isDark = saved === 'dark';
+          }
+          if (isDark) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body class="bg-background text-foreground antialiased selection:bg-cyan-500/20 selection:text-cyan-400">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
